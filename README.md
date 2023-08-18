@@ -1,1 +1,1 @@
-# reade
+I have developed a C-based project tailored for a supermarket environment. This repository showcases the implementation and functionality of the project, aimed at enhancing various aspects of supermarket operations.
